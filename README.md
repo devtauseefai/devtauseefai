@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Tauseef
 
-🚀** Full-Stack Developer | Laravel | WordPress & WooCommerce | AI Automation | System Architect | SaaS Builder**
+🚀 **Full-Stack Developer | Laravel | WordPress & WooCommerce | AI Automation | System Architect | SaaS Builder**
 
 🧠 I build **licensed, multi-tenant, real-world systems** — not demo apps.
 
